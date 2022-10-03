@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Getting Started with Create React App![faq-accordion-react](https://user-images.githubusercontent.com/37955758/193525933-ab830dc9-b029-4ff8-994f-f1edb4da6df3.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
